@@ -1,6 +1,6 @@
 /*
  * * Project Name:   pani-puri dahi-puri vending machine.
-  * Author List:   Mohammed Ahmed,Anuja Indore,Pranjali Bhopte: eyantra-Team
+  * Author List:   Mohammed Ahmed eyantra-Team
   * Filename:     master_code
   * Functions:   setup(),loop(),puri_phod(),ragda(),tez_chatni(),serve_panipuri(),serve_dahipuri(),original_pos(),check(), panipuri(),dahipuri()
   * Global Variables: myservo1,myservo2,myservo6,myservo7,myservo8,myservo9,myservo10,myservo11,myservo12,myservo3,myservo4,myservo5,stepPin,dirPin,enPIN
