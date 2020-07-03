@@ -1,12 +1,3 @@
-/*
-* Ultrasonic Sensor HC-SR04 and Arduino Tutorial
-*
-* by Dejan Nedelkovski,
-* www.HowToMechatronics.com
-*
-*/
-
-// defines pins numbers
 const int trigPin1 = D1;
 const int echoPin1 = D2;
 const int trigPin2= D3;
